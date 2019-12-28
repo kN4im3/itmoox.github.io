@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://www.payload.online/zh-hans/sitemap.xml</loc>
+		
+	   	<lastmod>2019-10-30T20:48:10+09:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://www.payload.online/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://www.payload.online/ko/sitemap.xml</loc>
+		
+	   	<lastmod>2019-10-09T11:44:14+09:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

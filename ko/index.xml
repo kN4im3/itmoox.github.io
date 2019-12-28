@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Zzo Theme</title>
+    <link>https://www.payload.online/ko/</link>
+    <description>Recent content on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>itmooxg@gmail.com (Since)</managingEditor>
+    <webMaster>itmooxg@gmail.com (Since)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 09 Oct 2019 11:44:14 +0900</lastBuildDate>
+    
+        <atom:link href="https://www.payload.online/ko/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>About</title>
+        <link>https://www.payload.online/ko/about/</link>
+        <pubDate>Wed, 09 Oct 2019 11:44:14 +0900</pubDate>
+        <author>itmooxg@gmail.com (Since)</author>
+        <guid>https://www.payload.online/ko/about/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Photo</title>
+        <link>https://www.payload.online/ko/gallery/photo/</link>
+        <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
+        <author>itmooxg@gmail.com (Since)</author>
+        <guid>https://www.payload.online/ko/gallery/photo/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Cartoon</title>
+        <link>https://www.payload.online/ko/gallery/cartoon/</link>
+        <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
+        <author>itmooxg@gmail.com (Since)</author>
+        <guid>https://www.payload.online/ko/gallery/cartoon/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

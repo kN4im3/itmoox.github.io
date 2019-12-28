@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on Hugo Zzo Theme</title>
+    <link>https://www.payload.online/zh-hans/pt/</link>
+    <description>Recent content in Presentations on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hans</language>
+    <managingEditor>itmooxg@gmail.com (Since)</managingEditor>
+    <webMaster>itmooxg@gmail.com (Since)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
+    
+        <atom:link href="https://www.payload.online/zh-hans/pt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Fourth</title>
+        <link>https://www.payload.online/zh-hans/pt/dir/fourth/</link>
+        <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
+        <author>itmooxg@gmail.com (Since)</author>
+        <guid>https://www.payload.online/zh-hans/pt/dir/fourth/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Third</title>
+        <link>https://www.payload.online/zh-hans/pt/third/</link>
+        <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
+        <author>itmooxg@gmail.com (Since)</author>
+        <guid>https://www.payload.online/zh-hans/pt/third/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Second</title>
+        <link>https://www.payload.online/zh-hans/pt/second/</link>
+        <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
+        <author>itmooxg@gmail.com (Since)</author>
+        <guid>https://www.payload.online/zh-hans/pt/second/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>First</title>
+        <link>https://www.payload.online/zh-hans/pt/first/</link>
+        <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
+        <author>itmooxg@gmail.com (Since)</author>
+        <guid>https://www.payload.online/zh-hans/pt/first/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>
